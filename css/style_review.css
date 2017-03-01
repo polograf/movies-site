@@ -1,0 +1,33 @@
+.input_review{
+  float:left !important	;
+  width:100%;
+}
+.add_comment{
+	text-align: left;
+
+}
+input[type=text]{
+	width:100%;
+}
+textarea{
+	border: 0px solid #514C4C;
+box-shadow: 0px 0px 2px #514C4C;
+}
+.review{
+	border-bottom:1px solid #EDE;
+}
+.delete{
+	margin-left: 75%;
+	padding: 5%;
+	width: 20px;
+	height: auto;
+	font-size: 0.5em;
+	color: red;
+}
+#grade{
+	margin-left:50%;
+}
+.review_details{
+	font-size: 0.6em;
+	font-style: italic;
+}

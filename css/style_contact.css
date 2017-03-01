@@ -1,0 +1,33 @@
+input,textarea,input[type=text]{
+  border:transparent;
+  font-size:1.0em;
+  margin:3%;
+  border-bottom:1px solid #EDE;
+  font-family:Lato;
+  width:94%;
+  float:left;
+}
+textarea{
+  font-size:0.55em;
+  width:95%;
+}
+.contact{
+   width:60%;
+  margin:auto;
+  margin-top:3%;
+}
+input[type=submit]{
+  text-align:center;
+  margin-left:25%;
+  width:50%;
+  font-family:Lato;
+  background-color:#CCC;
+  font-size:1.25em;
+  padding:2%;
+  border:2px solid #EDE;
+  border-radius:5px;
+}
+h2{
+  margin-bottom: 5%;
+  text-align: center;
+}
